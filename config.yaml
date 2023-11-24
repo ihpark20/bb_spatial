@@ -1,0 +1,4 @@
+default:
+  path: /BiO2/codes/bb_spatial
+  data: /BiO2/codes/bb_spatial/data
+  output: /BiO2/codes/bb_spatial/output  
