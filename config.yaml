@@ -3,4 +3,5 @@ default:
   data: /BiO2/codes/bb_spatial/data
   output: /BiO2/codes/bb_spatial/output
   tables: /BiO2/codes/bb_spatial/tables
+  plots: /BiO2/codes/bb_spatial/plots
   proxy: /BiO2/codes/bb_spatial/proxy
