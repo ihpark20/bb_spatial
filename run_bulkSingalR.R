@@ -5,6 +5,7 @@ library(config)
 library(BulkSignalR)
 library(igraph)
 library(Seurat)
+library(dplyr)
 
 # Load config data
 config <- config::get(file="config.yaml")

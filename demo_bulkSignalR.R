@@ -1,8 +1,11 @@
-
 library(BulkSignalR)
 library(igraph)
 library(dplyr)
 library(doParallel) # for parallel processing
+library(pheatmap)
+library(ggpubr)
+library(ggplot2)
+
 
 n.proc <- 4 # number of cores to use
 cl <- makeCluster(n.proc)
